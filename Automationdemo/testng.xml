@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Demo">
+<test name="testdemo">
+ <groups>
+  <run> 
+  <include name="SmokeTest"></include>
+  <include name="SanityTest"></include>
+  </run>
+  
+   </groups>
+    <classes>
+			
+			
+				</classes>
+	</test>
+
+</suite>
+
+	
